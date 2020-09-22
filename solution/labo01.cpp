@@ -24,8 +24,8 @@ using namespace std;
 using namespace cv;
 
 #define WINDOW_NAME "Photo"
-#define INPUT_FILENAME "photo.jpg"
-#define OUTPUT_FILENAME "photoModifiee.jpg"
+#define INPUT_FILENAME "../data/photo.jpg"
+#define OUTPUT_FILENAME "../data/photoModifiee.jpg"
 
 #define IMG_WIDTH 28
 #define IMG_HEIGHT 28
