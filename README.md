@@ -52,4 +52,4 @@ Créez un projet C++ compatible avec OpenCV et nommez-le `labo01`. Copiez le fic
 - affichez à la console la dimension en pixels de cette image,
 - faites en sorte qu'il faille appuyer sur la barre d'espace pour terminer le programme et libérer les ressources utilisées.
 
-![GitHub Logo](output.jpg)
+![GitHub Logo](data/photoModifiee.jpg)
